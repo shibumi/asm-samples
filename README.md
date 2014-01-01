@@ -1,6 +1,6 @@
-# Assembler-Samples
+# Assembly-Samples
 
-Just a few assembler samples in NASM and ATT syntax.. 
+Just a few assembly samples in NASM and ATT syntax.. 
 nothing special
 
 
