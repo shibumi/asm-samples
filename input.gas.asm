@@ -1,5 +1,5 @@
 .section .data
-text: .ascii "Bitte etwas eingeben: "
+text: .ascii "Your Input here: "
 buffer: .ascii ""
 
 .section .text
