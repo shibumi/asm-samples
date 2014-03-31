@@ -1,6 +1,4 @@
 # Assembly-Samples
 
-Just a few assembly samples in NASM and ATT syntax.. 
-nothing special
-
-
+Just a few assembly-samples in Intel and AT&T.
+Diff the source-code and see the differences.
