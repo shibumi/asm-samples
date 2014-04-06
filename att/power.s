@@ -1,5 +1,5 @@
-;Original by http://fionalerntprogrammieren.wordpress.com
-;What it does: (3 ^ 0) + (5 ^ 2)
+#Original by http://fionalerntprogrammieren.wordpress.com
+#What it does: (3 ^ 0) + (5 ^ 2)
 
 .global _start
 _start:

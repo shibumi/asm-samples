@@ -1,4 +1,4 @@
-;Original by http://fionalerntprogrammieren.wordpress.com
+#Original by http://fionalerntprogrammieren.wordpress.com
 
 .section .data
 
